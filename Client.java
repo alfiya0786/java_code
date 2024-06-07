@@ -14,8 +14,6 @@ public class Client {
 
     private static Socket socket;
 
-    print("hello");
-
     public static void main(String args[]) {
         try {
             String host = "localhost";
